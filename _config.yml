@@ -1,115 +1,115 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Título Institucional do Site
+title: "Fórum Internacional Science and Technology Backyard"
+name: "Relatório do Evento"
+description: "Documentação, análises e materiais do Fórum Internacional STB 2026"
+locale: "pt-BR"
+timezone: "America/Sao_Paulo"
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
+# URL base (NÃO MUDAR - use seu username)
+url: "https://otaviocmf.github.io"  # Substitua SEUUSERNAME pelo seu!
+baseurl: ""  # Deixe vazio se estiver na raiz
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# Autor/Instituição
+author:
+  name: "Comitê Organizador STB - Brasil"
+  avatar: "/assets/images/stb-logo.png"  # Vamos adicionar depois
+  bio: "Documentação institucional do Fórum Internacional Science and Technology Backyard"
+  links:
+    - label: "Website Oficial STB - Brasil"
+      icon: "fas fa-globe"
+      url: "https://"  # Coloque link real se tiver
 
-include:
-  - _pages
+# Configurações do Tema Minimal Mistakes
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air"  # "air", "dark", "mint", "aqua" - sugiro "air"
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
+# Plugins incluídos no GitHub Pages
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+# Configurações do Site
+logo: "/assets/images/stb-logo.png"  # Logo no cabeçalho
+masthead_title: "Fórum Internacional STB 2024"
+breadcrumbs: true
 
+# Navegação Principal (Menu)
+navigation:
+  - title: "Página Inicial"
+    url: /
+  - title: "Sobre o Evento"
+    url: /sobre/
+  - title: "Programação"
+    url: /programacao/
+  - title: "Palestrantes"
+    url: /palestrantes/
+  - title: "Galeria"
+    url: /galeria/
+  - title: "Documentos"
+    url: /documentos/
+  - title: "Contato"
+    url: /contato/
+
+# Configurações de Feed
+feed:
+  path: atom.xml
+
+# SEO
+seo:
+  type: "Website"
+  locale: "pt_BR"
+  description: "Relatório completo do Fórum Internacional Science and Technology Backyard 2026"
+  keywords: "STB, Science and Technology Backyard, agricultura sustentável, inovação, fórum internacional"
+
+# Comentários (opcional - pode ativar depois)
+comments:
+  provider: ""  # "disqus" se quiser comentários
+
+# Analytics (opcional)
+analytics:
+  provider: ""  # "google" ou "google-universal"
+
+# Sharing (redes sociais)
+sharing: true
+
+# Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/"
 
+# Customização
 defaults:
-  # _posts
+  # Defaults para páginas
   - scope:
       path: ""
-      type: posts
+      type: "pages"
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
+      layout: "single"
+      author_profile: false
       share: true
-      related: true
-  # _pages
+      comments: false
+      read_time: false
+  # Defaults para posts
   - scope:
-      path: "_pages"
-      type: pages
+      path: ""
+      type: "posts"
     values:
-      layout: single
-      author_profile: true
+      layout: "single"
+      author_profile: false
+      share: true
+      comments: false
+      read_time: true
+      toc: true  # Índice à direita para posts longos
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# Outras configurações
+paginate: 5
+paginate_path: /page:num/
+search: true
