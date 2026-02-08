@@ -32,7 +32,7 @@ plugins:
   - jekyll-include-cache
 
 # Configurações do Site
-logo: "/assets/images/stb3.png"  # Logo no cabeçalho
+logo: "/assets/images/stb3.jpg"  # Logo no cabeçalho
 masthead_title: "Fórum Internacional STB 2026"
 breadcrumbs: true
 
