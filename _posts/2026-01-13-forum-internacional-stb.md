@@ -6,7 +6,7 @@ tags: [STB, AgTech, colaboração internacional, inovação]
 header:
   overlay_image: /assets/images/stb-forum-header.jpg  # Vamos adicionar depois
   overlay_filter: 0.3
-  caption: "Fórum Internacional STB 2024"
+  caption: "Fórum Internacional STB 2026"
 excerpt: "Relato da participação no Fórum Internacional sobre Science and Technology Backyard, trocando conhecimentos sobre agricultura sustentável."
 toc: true
 toc_sticky: true
@@ -265,4 +265,4 @@ Agradeço aos organizadores, palestrantes e todos os participantes pela rica tro
 
 ---
 
-*Este relato faz parte da documentação institucional do Fórum STB 2024.*
+*Este relato faz parte da documentação institucional do Fórum STB 2026.*
