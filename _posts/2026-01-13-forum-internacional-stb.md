@@ -4,7 +4,7 @@ date: 2026-01-13 10:00:00 -0300
 categories: [Evento Internacional, Agricultura Sustentável]
 tags: [STB, AgTech, colaboração internacional, inovação]
 header:
-  overlay_image: /assets/images/stb-forum-header.jpg  # Vamos adicionar depois
+  overlay_image: /assets/images/stb7.jpg  # Vamos adicionar depois
   overlay_filter: 0.3
   caption: "Fórum Internacional STB 2026"
 excerpt: "Relato da participação no Fórum Internacional sobre Science and Technology Backyard, trocando conhecimentos sobre agricultura sustentável."
