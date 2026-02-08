@@ -20,7 +20,7 @@ author:
       url: "https://"  # Coloque link real se tiver
 
 # Configurações do Tema Minimal Mistakes
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "air"  # "air", "dark", "mint", "aqua" - sugiro "air"
 
 # Plugins incluídos no GitHub Pages
