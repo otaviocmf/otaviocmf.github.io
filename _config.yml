@@ -12,7 +12,7 @@ baseurl: ""  # Deixe vazio se estiver na raiz
 # Autor/Instituição
 author:
   name: "Comitê Organizador STB - Brasil"
-  avatar: "/assets/images/stb-logo.png"  # Vamos adicionar depois
+  avatar: "/assets/images/stb7.jpg"  # Vamos adicionar depois
   bio: "Documentação institucional do Fórum Internacional Science and Technology Backyard"
   links:
     - label: "Website Oficial STB - Brasil"
