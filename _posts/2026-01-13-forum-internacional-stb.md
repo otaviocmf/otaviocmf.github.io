@@ -5,7 +5,7 @@ categories: [Evento Internacional, Agricultura Sustentável]
 tags: [STB, AgTech, colaboração internacional, inovação]
 author:
   name: "Otávio César Martins Ferreira"
-  avatar: "/assets/images/seu-perfil.jpg"
+  avatar: "/assets/images/ocmf.png"
 header:
   overlay_image: /assets/images/stb7.jpg  # Vamos adicionar depois
   overlay_filter: 0.3
