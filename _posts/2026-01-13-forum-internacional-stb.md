@@ -1,7 +1,7 @@
 ---
 title: "Perspectivas para o Brasil na Participação no Fórum Internacional Science and Technology Backyard"
 date: 2026-01-13 10:00:00 -0300
-permalink: /forum-stb-2026-relatorio-br/
+permalink: /forum-stb-2026-relatorio-perspectivas-para-o-brasil/
 categories: [Evento Internacional, Agricultura Sustentável]
 tags: [STB, AgTech, colaboração internacional, inovação]
 
