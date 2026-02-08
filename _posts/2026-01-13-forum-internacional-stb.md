@@ -3,6 +3,9 @@ title: "Perspectivas para o Brasil na Participação no Fórum Internacional Sci
 date: 2026-01-13 10:00:00 -0300
 categories: [Evento Internacional, Agricultura Sustentável]
 tags: [STB, AgTech, colaboração internacional, inovação]
+author:
+  name: "Otávio César Martins Ferreira"
+  avatar: "/assets/images/seu-perfil.jpg"
 header:
   overlay_image: /assets/images/stb7.jpg  # Vamos adicionar depois
   overlay_filter: 0.3
@@ -32,7 +35,7 @@ Esta introdução não pretende ser mera abertura formal, mas uma invitação à
 
 O Fórum Internacional STB 2026 marca, assim, a consolidação de uma nova era na agricultura global—uma era onde a inovação tecnológica está indissociavelmente ligada à inovação social, onde a eficiência produtiva dialoga constantemente com a equidade distributiva, e onde o futuro da alimentação humana está sendo co-criado, quintal por quintal, comunidade por comunidade, em um movimento silencioso mas poderoso que pode muito bem estar redefinindo o próprio significado de progresso agrícola no nosso tempo.
 
-## 🌟 Uma Experiência Transformadora
+##  Uma Experiência Transformadora
 
 Foi uma grande honra participar do **Fórum Internacional sobre Science and Technology Backyard**, uma experiência enriquecedora que reuniu mentes brilhantes de todo o mundo para discutir inovação agrícola sustentável.
 
@@ -261,10 +264,6 @@ Honored to have participated in the International Forum on Science and Technolog
 **Português:**
 Uma honra ter participado do Fórum Internacional sobre "Science and Technology Backyard" (Pátio de Ciência e Tecnologia). Uma experiência incrível trocando conhecimentos e perspectivas sobre inovação agrícola sustentável com mentes brilhantes de todo o mundo. Grato(a) pela inspiração e pelas novas conexões! #ScienceAndTechnologyBackyard #AgroTecnologia #Sustentabilidade #Inovação #ColaboracaoInternacional
 
-### 📸 Momentos Marcantes
-
-*Inserir galeria de imagens aqui*
-
 ### 🔗 Conectando Saberes
 
 As discussões evidenciaram a importância de:
@@ -279,7 +278,7 @@ Como resultado do fórum, foram estabelecidos:
 2. Plataforma virtual de compartilhamento
 3. Agenda de encontros anuais
 
-### 🙏 Agradecimentos
+### Agradecimentos
 
 Agradeço aos organizadores, palestrantes e todos os participantes pela rica troca de experiências. Que esta seja apenas a primeira de muitas colaborações frutíferas!
 
@@ -293,27 +292,27 @@ Agradeço aos organizadores, palestrantes e todos os participantes pela rica tro
   
  <figure>
     <img src="/assets/images/stb2.jpg" alt="Foto da conferência 2">
-    <figcaption>Foto da conferência 1</figcaption>
+    <figcaption>Foto da conferência 2</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/stb3.jpg" alt="Foto da conferência 3">
-    <figcaption>Foto da conferência 1</figcaption>
+    <figcaption>Foto da conferência 3</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/stb4.jpg" alt="Foto da conferência 4">
-    <figcaption>Foto da conferência 1</figcaption>
+    <figcaption>Foto da conferência 4</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/stb5.jpg" alt="Foto da conferência 5">
-    <figcaption>Foto da conferência 1</figcaption>
+    <figcaption>Foto da conferência 5</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/stb6.jpg" alt="Foto da conferência 6">
-    <figcaption>Foto da conferência 1</figcaption>
+    <figcaption>Foto da conferência 6</figcaption>
   </figure>
 </div>
 
