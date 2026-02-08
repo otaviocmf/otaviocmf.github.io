@@ -7,7 +7,7 @@ tags: [STB, AgTech, International Cooperation, Innovation, Caribbean Agriculture
 
 author:
   name: "Jasveer Giovanni Seecharan"
-  avatar: "/assets/images/jgs.png"
+  avatar: "/assets/images/jgs.jpg"
 
 layout: single
 author_profile: true
