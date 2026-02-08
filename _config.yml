@@ -21,7 +21,7 @@ author:
 
 # Configurações do Tema Minimal Mistakes
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "air"  # "air", "dark", "mint", "aqua" - sugiro "air"
+minimal_mistakes_skin: "mint"  # "air", "dark", "mint", "aqua" - sugiro "air"
 
 # Plugins incluídos no GitHub Pages
 plugins:
