@@ -37,11 +37,11 @@ header:
 ---
 Por: Otávio César Martins Ferreira
 
-Um Evento Global Abrangente
+**Um Evento Global Abrangente**
 
 A China International Consumer Products Expo 2026 (CICPE) em Haikou foi uma experiência verdadeiramente abrangente e reveladora. O evento reuniu uma mistura impressionante de produtos, serviços e inovações internacionais e nacionais. Foi também um poderoso lembrete do papel crescente de Hainan como um porto de livre comércio, promovendo ativamente eventos de grande porte como este.
 
-🤖 Tecnologia de Ponta em Exposição
+### 🤖 Tecnologia de Ponta em Exposição
 
 Uma das partes mais empolgantes da feira foi a mostra de tecnologia. Tive a chance de ver:
 
@@ -51,7 +51,7 @@ Uma das partes mais empolgantes da feira foi a mostra de tecnologia. Tive a chan
 
 É claro que a tecnologia está rapidamente conectando as necessidades dos consumidores à inovação real.
 
-💼 Insights Valiosos de Expositores Internacionais
+### 💼 Insights Valiosos de Expositores Internacionais
 
 O verdadeiro destaque, no entanto, foram as pessoas que conheci.
 
@@ -64,7 +64,7 @@ Mari importa grãos de café do Brasil – meu país de origem – e os adapta l
 🇩🇪 Uma senhora da Eubos (Alemanha)  
 Também tive uma conversa fascinante com uma representante da Eubos, uma empresa farmacêutica e de cuidados com a pele alemã. Ela discutiu a importância da confiança nos padrões médicos alemães, bem como os desafios das regulamentações transfronteiriças e da educação dos consumidores em novos mercados.
 
-🌍 Perspectivas Globais do Oriente Médio e da China
+### 🌍 Perspectivas Globais do Oriente Médio e da China
 
 🇮🇷 Um senhor iraniano  
 Ele falou com sensatez sobre as relações comerciais internacionais em um mundo globalizado. Seu principal ponto: aprender idiomas não é mais opcional – é essencial para construir conexões comerciais reais.
@@ -72,7 +72,7 @@ Ele falou com sensatez sobre as relações comerciais internacionais em um mundo
 🇨🇳 Mostra Nacional – Cada Província Chinesa  
 A seção nacional foi igualmente impressionante. Cada província da China tinha seu próprio estande, tornando o evento extremamente bem organizado na promoção dos pontos fortes regionais do país. Além de apenas observar, ganhei uma ótima experiência prática conversando diretamente com empreendedores e trocando contatos.
 
-✅ Principais Lições
+### ✅ Principais Lições
 
 🔹 Prática sobre teoria – O contato direto com clientes e parceiros é insubstituível.  
 🔹 Localização é importante – Café brasileiro adaptado para a China; medicamentos alemães construindo confiança passo a passo.  
@@ -83,41 +83,45 @@ A seção nacional foi igualmente impressionante. Cada província da China tinha
 
 Coletei vários contatos valiosos e pretendo dar seguimento para parcerias experimentais. A feira não foi apenas sobre ver produtos – foi sobre sentir o mercado, aprender com empreendedores reais e entender que o comércio global é construído sobre pessoas, não apenas sobre políticas.
 
+### Agradecimentos
+
+Agradeço aos organizadores, palestrantes e todos os participantes pela rica troca de experiências.
+
 ---
 
 ✨ Você já participou da CICPE ou de uma feira global semelhante? Fique à vontade para entrar em contato – adoraria trocar ideias.
 
-## 🖼️ Registros Visuais do Fórum STB
+## 🖼️ Registros Visuais da CICPE 2026
 
 <div class="gallery-grid">
   <figure>
     <img src="/assets/images/stb1.jpg" alt="Foto da conferência 1">
-    <figcaption>Foto da conferência 1</figcaption>
+    <figcaption>Foto da feira 1</figcaption>
   </figure>
   
  <figure>
     <img src="/assets/images/stb2.jpg" alt="Foto da conferência 2">
-    <figcaption>Foto da conferência 2</figcaption>
+    <figcaption>Foto da feira 2</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/stb3.jpg" alt="Foto da conferência 3">
-    <figcaption>Foto da conferência 3</figcaption>
+    <figcaption>Foto da feira 3</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/stb4.jpg" alt="Foto da conferência 4">
-    <figcaption>Foto da conferência 4</figcaption>
+    <figcaption>Foto da feira 4</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/stb5.jpg" alt="Foto da conferência 5">
-    <figcaption>Foto da conferência 5</figcaption>
+    <figcaption>Foto da feira 5</figcaption>
   </figure>
 
   <figure>
     <img src="/assets/images/stb6.jpg" alt="Foto da conferência 6">
-    <figcaption>Foto da conferência 6</figcaption>
+    <figcaption>Foto da feira 6</figcaption>
   </figure>
 </div>
 
