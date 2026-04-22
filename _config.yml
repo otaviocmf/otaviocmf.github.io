@@ -1,7 +1,7 @@
 # Título Institucional do Site
-title: "Fórum Internacional do Pátio de Ciência e Tecnologia"
-name: "Relatório do Evento"
-description: "Documentação, análises e materiais do Fórum Internacional STB 2026"
+title: "Divulgação de Fóruns e Eventos Internacional do Pátio de Ciência e Tecnologia"
+name: "Relatórios de Eventos"
+description: "Documentação, análises e materiais do Fóruns e Eventos STB e MBA"
 locale: "pt-BR"
 timezone: "America/Sao_Paulo"
 
@@ -13,7 +13,7 @@ baseurl: ""  # Deixe vazio se estiver na raiz
 author:
   name: "Comitê Organizador STB - Brasil"
   avatar: "/assets/images/stb7.jpg"  # Vamos adicionar depois
-  bio: "Documentação institucional do Fórum Internacional Science and Technology Backyard"
+  bio: "Documentação institucional do Fóruns e Eventos Science and Technology Backyard"
   links:
     - label: "Website Oficial STB - Brasil"
       icon: "fas fa-globe"
@@ -33,14 +33,14 @@ plugins:
 
 # Configurações do Site
 logo: "/assets/images/stb3.jpg"  # Logo no cabeçalho
-masthead_title: "Fórum Internacional STB 2026"
+masthead_title: "Fóruns e Eventos Internacionais STB MBA"
 breadcrumbs: true
 
 # Navegação Principal (Menu)
 navigation:
   - title: "Página Inicial"
     url: /
-  - title: "Sobre o Evento"
+  - title: "Sobre os Eventos"
     url: /sobre/
   - title: "Programação"
     url: /programacao/
@@ -61,7 +61,7 @@ feed:
 seo:
   type: "Website"
   locale: "pt_BR"
-  description: "Relatório completo do Fórum Internacional Science and Technology Backyard 2026"
+  description: "Relatório completo de Fóruns e Eventos Internacionais Science and Technology Backyard"
   keywords: "STB, Science and Technology Backyard, agricultura sustentável, inovação, fórum internacional"
 
 # Comentários (opcional - pode ativar depois)
