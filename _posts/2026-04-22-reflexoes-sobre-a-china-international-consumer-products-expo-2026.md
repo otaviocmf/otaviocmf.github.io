@@ -30,9 +30,9 @@ toc: true
 toc_sticky: true
 
 header:
-  overlay_image: /assets/images/stb7.jpg  # Vamos adicionar depois
+  overlay_image: /assets/images/cicpe7.jpg  # Vamos adicionar depois
   overlay_filter: 0.3
-  caption: "Fórum Internacional STB 2026"
+  caption: "CICPE Haikou 2026"
 
 ---
 Por: Otávio César Martins Ferreira
@@ -95,32 +95,32 @@ Agradeço aos organizadores, palestrantes e todos os participantes pela rica tro
 
 <div class="gallery-grid">
   <figure>
-    <img src="/assets/images/stb1.jpg" alt="Foto da conferência 1">
+    <img src="/assets/images/cicpe1.jpg" alt="Foto da feira 1">
     <figcaption>Foto da feira 1</figcaption>
   </figure>
   
  <figure>
-    <img src="/assets/images/stb2.jpg" alt="Foto da conferência 2">
+    <img src="/assets/images/cicpe2.jpg" alt="Foto da feira 2">
     <figcaption>Foto da feira 2</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/images/stb3.jpg" alt="Foto da conferência 3">
+    <img src="/assets/images/cicpe3.jpg" alt="Foto da feira 3">
     <figcaption>Foto da feira 3</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/images/stb4.jpg" alt="Foto da conferência 4">
+    <img src="/assets/images/cicpe4.jpg" alt="Foto da feira 4">
     <figcaption>Foto da feira 4</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/images/stb5.jpg" alt="Foto da conferência 5">
+    <img src="/assets/images/cicpe5.jpg" alt="Foto da feira 5">
     <figcaption>Foto da feira 5</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/images/stb6.jpg" alt="Foto da conferência 6">
+    <img src="/assets/images/cicpe6.jpg" alt="Foto da feira 6">
     <figcaption>Foto da feira 6</figcaption>
   </figure>
 </div>
