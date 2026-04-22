@@ -86,3 +86,73 @@ Coletei vários contatos valiosos e pretendo dar seguimento para parcerias exper
 ---
 
 ✨ Você já participou da CICPE ou de uma feira global semelhante? Fique à vontade para entrar em contato – adoraria trocar ideias.
+
+## 🖼️ Registros Visuais do Fórum STB
+
+<div class="gallery-grid">
+  <figure>
+    <img src="/assets/images/stb1.jpg" alt="Foto da conferência 1">
+    <figcaption>Foto da conferência 1</figcaption>
+  </figure>
+  
+ <figure>
+    <img src="/assets/images/stb2.jpg" alt="Foto da conferência 2">
+    <figcaption>Foto da conferência 2</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/images/stb3.jpg" alt="Foto da conferência 3">
+    <figcaption>Foto da conferência 3</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/images/stb4.jpg" alt="Foto da conferência 4">
+    <figcaption>Foto da conferência 4</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/images/stb5.jpg" alt="Foto da conferência 5">
+    <figcaption>Foto da conferência 5</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/images/stb6.jpg" alt="Foto da conferência 6">
+    <figcaption>Foto da conferência 6</figcaption>
+  </figure>
+</div>
+
+<style>
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+  margin: 40px 0;
+}
+.gallery-grid figure {
+  margin: 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+.gallery-grid figure:hover {
+  transform: translateY(-5px);
+}
+.gallery-grid img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+.gallery-grid figcaption {
+  padding: 15px;
+  background: #f8f9fa;
+  text-align: center;
+  font-size: 0.95em;
+  color: #555;
+}
+</style>
+
+---
+
+*Este relato faz parte da documentação da CICPE 2026.*
