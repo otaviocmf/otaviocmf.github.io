@@ -21,7 +21,7 @@ toc: true
 toc_sticky: true
 
 header:
-  overlay_image: /assets/images/stb-caribbean-header.jpg
+  overlay_image: /assets/images/cicj4.jpg
   overlay_filter: 0.3
   caption: "CICPE-2026"
 
@@ -78,18 +78,18 @@ Deep insights into the future of consumption — what we buy, and why
 
 <div class="gallery-grid">
   <figure>
-    <img src="/assets/images/stb-caribbean1.jpg" alt="Forum Photo 1">
-    <figcaption>Forum Photo 1</figcaption>
+    <img src="/assets/images/cicj1.jpg" alt="EXPO Photo 1">
+    <figcaption>EXPO Photo 1</figcaption>
   </figure>
   
   <figure>
-    <img src="/assets/images/stb-caribbean2.jpg" alt="Forum Photo 2">
-    <figcaption>Forum Photo 2</figcaption>
+    <img src="/assets/images/cicj2.jpg" alt="EXPO Photo 2">
+    <figcaption>EXPO Photo 2</figcaption>
   </figure>
 
   <figure>
-    <img src="/assets/images/stb-caribbean3.jpg" alt="Forum Photo 3">
-    <figcaption>Forum Photo 3</figcaption>
+    <img src="/assets/images/cicj3.jpg" alt="EXPO Photo 3">
+    <figcaption>EXPO Photo 3</figcaption>
   </figure>
 </div>
 
