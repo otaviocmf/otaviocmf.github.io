@@ -1,6 +1,6 @@
 ---
 title: "Caribbean perspective on the 6th China International Consumer Products Expo"
-date: 2026-01-13 10:00:00 -0400
+date: 2026-04-25 10:00:00 -0400
 permalink: /caribbean-perspective-cicpe-2026/
 categories: [International Event, expo, Technology]
 tags: [ESG, Tech, International Cooperation, Innovation, Caribbean]
@@ -29,6 +29,7 @@ header:
 
 
 Exploring the Future of Consumption: Caribbean perspective on the 6th China International Consumer Products Expo
+---
 By Jasveer Seecharan
 April 25, 2026
 
@@ -139,11 +140,12 @@ Español (Spanish) – Representatives from Latin American countries highlighted
 Français (French) – French luxury and skincare brands spoke of "l'élégance durable" (sustainable elegance) and "innovation sensorielle" (sensory innovation), blending tradition with modern consumer expectations.
 
 Acknowledgements
+---
 With sincere gratitude
 
 I would like to express my deepest appreciation to China Agricultural University for providing the academic foundation and research perspective that guided my observations at the 6th China International Consumer Products Expo. The university's commitment to understanding sustainable systems — from agricultural supply chains to consumer behavior — directly informed how I interpreted the connections between global trade, technology, and daily products.
 
 I also thank the expo organizers, exhibitors, and fellow attendees who shared their insights freely. Special thanks to the representatives at the Hong Kong, Thailand, Malaysia, Mongolia, and Indonesia pavilions, as well as the team at EY for introducing me to the ESG.ai tool. Their openness turned a visit into a rich learning experience.
+
 ---
 
-*This account is part of the institutional documentation of the STB Forum 2026. The views expressed represent personal perspectives based on forum participation and do not necessarily reflect official institutional positions.*
