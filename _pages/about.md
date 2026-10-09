@@ -3,6 +3,36 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## 🌍 International Science and Technology Backyard Forum
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+The **International Science and Technology Backyard (STB) Forum & MBA** brings together experts, researchers and professionals from around the world to discuss innovations in sustainable agriculture.
+
+### Objectives
+- Promote international exchange of knowledge
+- Discuss technologies for sustainable agriculture
+- Strengthen global collaborations
+- Document best practices in AgTech
+
+### Main Themes
+1. **Innovation in Sustainable Agriculture**
+2. **Technologies for Smallholder Farmers**
+3. **International Research Collaboration**
+4. **Education and Rural Extension**
+
+
+## 🌍 Fórum Internacional Science and Technology Backyard
+
+O **Fórum Internacional Science and Technology Backyard (STB) & MBA** reune especialistas, pesquisadores e profissionais de todo o mundo para discutir inovações em agricultura sustentável.
+
+### Objetivos
+- Promover intercâmbio internacional de conhecimentos
+- Discutir tecnologias para agricultura sustentável
+- Fortalecer colaborações globais
+- Documentar melhores práticas em AgTech
+
+### Temas Principais
+1. **Inovação em Agricultura Sustentável**
+2. **Tecnologias para Pequenos Produtores**
+3. **Colaboração Internacional em Pesquisa**
+4. **Educação e Extensão Rural**
+
