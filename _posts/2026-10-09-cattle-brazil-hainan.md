@@ -83,12 +83,12 @@ I thank the team at 海南胜牛种业 for their trust, and the professionals wh
 <div class="gallery-grid">
   <figure>
     <img src="/assets/images/hzi2.jpg" alt="F1 Angus X Nelore">
-    <figcaption>Assembly Work</figcaption>
+    <figcaption>F1 Angus X Nelore</figcaption>
   </figure>
   
   <figure>
     <img src="/assets/images/hzi3.jpg" alt="Cattle Breed">
-    <figcaption>At the Expo in Shanghai</figcaption>
+    <figcaption>Cattle Breed</figcaption>
   </figure>
 
 </div>
