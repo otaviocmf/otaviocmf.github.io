@@ -109,6 +109,9 @@ defaults:
       read_time: true
       toc: true  # Índice à direita para posts longos
 
+include:
+  - _pages
+
 # Archives
 category_archive:
   type: liquid
