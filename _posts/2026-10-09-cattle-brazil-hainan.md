@@ -1,18 +1,31 @@
 ---
 title: "From Brazil to Hainan: What I Learned Researching Heat-Tolerant Cattle as an Intern"
-date: 2026-10-09
-categories:
-  - Internship
-  - Livestock
-  - International Research
-tags:
-  - Brazil
-  - Hainan
-  - Cattle
-  - Nelore
-  - Angus
-  - Heat Stress
-  - Beef Production
+date: 2026-10-09 11:00:00 -0400
+permalink: /from-brazil-to-hainan-heat-tolerant-cattle/
+categories: [Internship, Livestock, International Research]
+tags: [Brazil, Hainan, Cattle, Nelore, Angus, Heat Stress, Beef Production]
+
+---
+author:
+  name: "Henrique Zanoto"
+  avatar: "/assets/images/hz.jpg"
+
+layout: single
+author_profile: true
+read_time: true
+share: true
+toc: true
+toc_sticky: true
+
+header:
+  overlay_image: /assets/images/hz1.jpg
+  overlay_filter: 0.4
+---
+
+
+**By Henrique Zanoto**  
+*October 9, 2026* | *China Agricultural University*
+
 ---
 
 🐄 What does it take to produce quality beef where it is very hot?
@@ -65,7 +78,58 @@ I started the internship thinking it would be research about breeds. I left unde
 
 I thank the team at 海南胜牛种业 for their trust, and the professionals who shared their time and knowledge in the interviews.
 
-Gallery:
+
+## 🖼️ Gallery:
+
+<div class="gallery-grid">
+  <figure>
+    <img src="/assets/images/hz2.jpg" alt="F1 Angus X Nelore">
+    <figcaption>Assembly Work</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="/assets/images/hz3.jpg" alt="Cattle Breed">
+    <figcaption>At the Expo in Shanghai</figcaption>
+  </figure>
+
+</div>
+
+<style>
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+  margin: 40px 0;
+}
+.gallery-grid figure {
+  margin: 0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  background: white;
+}
+.gallery-grid figure:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+}
+.gallery-grid img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+}
+.gallery-grid figcaption {
+  padding: 14px;
+  background: #fef9f0;
+  text-align: center;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #2c3e2f;
+  border-top: 1px solid #e9e2d0;
+}
+</style>
+
 
 
 ---
