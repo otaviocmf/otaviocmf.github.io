@@ -5,7 +5,6 @@ permalink: /from-brazil-to-hainan-heat-tolerant-cattle/
 categories: [Internship, Livestock, International Research]
 tags: [Brazil, Hainan, Cattle, Nelore, Angus, Heat Stress, Beef Production]
 
----
 author:
   name: "Henrique Zanoto"
   avatar: "/assets/images/hz.jpg"
