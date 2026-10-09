@@ -1,5 +1,5 @@
 ---
-title: "Turning a Failure Into a Success: Report of Internship in Shandong"
+title: "Turning a Failure Into a Success: From the Factory Floor in Shandong to an International Trade Fair in Shanghai"
 date: 2026-10-08 10:00:00 -0400
 permalink: /turning-a-failure-into-a-success-shandong-internship/
 categories: [Internship, Agricultural, International Business]
@@ -26,20 +26,7 @@ header:
 **By Filip Hamdan**  
 *October 8, 2026* | *China Agricultural University*
 
----
 
-title: "From the Factory Floor in Shandong to an International Trade Fair in Shanghai"
-date: 2026-10-08
-categories:
-  - Internship
-  - Agriculture
-  - International Business
-tags:
-  - China
-  - MBA
-  - Manufacturing
-  - Poultry Equipment
-  - Trade Fair
 ---
 
 
