@@ -17,9 +17,8 @@ toc: true
 toc_sticky: true
 
 header:
-  overlay_image: /assets/images/cicj4.jpg
+  overlay_image: /assets/images/FilipIntenship1.jpg
   overlay_filter: 0.4
-  caption: "CICPE 2026 – Hainan, China"
 ---
 
 # Turning a Failure Into a Success
