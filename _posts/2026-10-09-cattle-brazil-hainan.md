@@ -17,7 +17,7 @@ toc: true
 toc_sticky: true
 
 header:
-  overlay_image: /assets/images/hz1.jpg
+  overlay_image: /assets/images/hzi.jpg
   overlay_filter: 0.4
 ---
 
@@ -82,12 +82,12 @@ I thank the team at 海南胜牛种业 for their trust, and the professionals wh
 
 <div class="gallery-grid">
   <figure>
-    <img src="/assets/images/hz2.jpg" alt="F1 Angus X Nelore">
+    <img src="/assets/images/hzi2.jpg" alt="F1 Angus X Nelore">
     <figcaption>Assembly Work</figcaption>
   </figure>
   
   <figure>
-    <img src="/assets/images/hz3.jpg" alt="Cattle Breed">
+    <img src="/assets/images/hzi3.jpg" alt="Cattle Breed">
     <figcaption>At the Expo in Shanghai</figcaption>
   </figure>
 
