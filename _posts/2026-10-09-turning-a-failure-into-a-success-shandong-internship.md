@@ -17,7 +17,7 @@ toc: true
 toc_sticky: true
 
 header:
-  overlay_image: /assets/images/FilipIntenship1.jpg
+  overlay_image: /assets/images/FilipInternship1.jpg
   overlay_filter: 0.4
 ---
 
