@@ -168,7 +168,7 @@ It was an opportunity to see how ideas from an MBA classroom actually work in th
 
 ---
 
-## 🖼️ Visual Records from CICPE 2026
+## 🖼️ Visual Records
 
 <div class="gallery-grid">
   <figure>
