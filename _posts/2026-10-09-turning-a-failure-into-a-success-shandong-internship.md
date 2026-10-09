@@ -7,7 +7,7 @@ tags: [China, MBA, Manufacturing, Poultry Equipment, Trade Fair]
 
 author:
   name: "Filip Hamdan"
-  avatar: "/assets/images/jgs.jpg"
+  avatar: "/assets/images/fh.jpg"
 
 layout: single
 author_profile: true
@@ -43,7 +43,6 @@ tags:
   - Trade Fair
 ---
 
-📸 Photo 1 — *Caption: [Add a short description, e.g., "At the Goodberry agricultural park in Shandong"]*
 
 This summer, I had the opportunity to spend several weeks working in China's agricultural and manufacturing sector as part of my MBA studies at China Agricultural University.
 
@@ -59,7 +58,6 @@ Xinfa operates an interesting circular agricultural model. Its greenhouses produ
 
 The main lesson was surprisingly simple. What looks like waste in one operation can become a valuable input for another.
 
-📸 Photo 2 — *Caption: [Add a short description, e.g., "Inside the Xinfa Modern Agricultural Industrial Park"]*
 
 Shortly afterwards, my internship placement changed and I moved to Kaleter, a Chinese manufacturer of poultry farming equipment and environmental control systems.
 
@@ -107,7 +105,6 @@ For the customer, the real product is the completed and functioning poultry hous
 
 Installation, technical support and after sales service therefore become part of the value proposition.
 
-📸 Photo 3 — *Caption: [Add a short description, e.g., "At the poultry house construction site in Shandong"]*
 
 The final stage of my internship took me to Shanghai for VIV Select China, an international trade fair for the animal farming industry.
 
@@ -121,7 +118,6 @@ It demonstrated that a trade fair is not simply an exhibition.
 
 It is one stage in a much longer sales and market entry process.
 
-📸 Photo 4 — *Caption: [Add a short description, e.g., "At the Kaleter booth during VIV Select China in Shanghai"]*
 
 🇨🇳 What I Learned About Chinese Companies
 
@@ -170,6 +166,63 @@ It also strengthened my interest in international business and the role that Chi
 For me, the journey from the factory floor in Shandong to an international exhibition hall in Shanghai was more than an internship.
 
 It was an opportunity to see how ideas from an MBA classroom actually work in the real world.
+
+---
+
+## 🖼️ Visual Records from CICPE 2026
+
+<div class="gallery-grid">
+  <figure>
+    <img src="/assets/images/FilipInternship3.jpg" alt="Assembly Work">
+    <figcaption>Assembly Work</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="/assets/images/FilipInternship2.jpg" alt="At the EXPO">
+    <figcaption>At the Expo in Shanghai</figcaption>
+  </figure>
+
+  <figure>
+    <img src="/assets/images/FilipInternship4.jpg" alt="Doing Business">
+    <figcaption>Learning and Doing Business</figcaption>
+  </figure>
+</div>
+
+<style>
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+  margin: 40px 0;
+}
+.gallery-grid figure {
+  margin: 0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  background: white;
+}
+.gallery-grid figure:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+}
+.gallery-grid img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+}
+.gallery-grid figcaption {
+  padding: 14px;
+  background: #fef9f0;
+  text-align: center;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #2c3e2f;
+  border-top: 1px solid #e9e2d0;
+}
+</style>
 
 ---
 
