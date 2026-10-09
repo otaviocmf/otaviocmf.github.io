@@ -109,6 +109,15 @@ defaults:
       read_time: true
       toc: true  # Índice à direita para posts longos
 
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/
+
 # Outras configurações
 paginate: 5
 paginate_path: /page:num/
